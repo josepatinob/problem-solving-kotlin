@@ -29,3 +29,5 @@ problem-solving-kotlin/.idea/kotlinc.xml
 .gradle/*
 
 .DS_Store
+
+build
